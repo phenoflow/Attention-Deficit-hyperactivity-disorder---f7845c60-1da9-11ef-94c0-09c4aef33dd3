@@ -1,0 +1,108 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-concerta---primary.py
+inputModule3:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-125mg---primary.py
+inputModule4:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-guanfacine---primary.py
+inputModule5:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-strattera---primary.py
+inputModule6:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-atomoxetine---primary.py
+inputModule7:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-conduct---primary.py
+inputModule8:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-hydrochloride---primary.py
+inputModule9:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-childhood---primary.py
+inputModule10:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-tranquilyn---primary.py
+inputModule11:
+  class: File
+  path: python/other-attention-deficit-hyperactivity-disorder-adhd---primary.py
+inputModule12:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-therapy---primary.py
+inputModule13:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-review---primary.py
+inputModule14:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-unspecified---primary.py
+inputModule15:
+  class: File
+  path: python/attention---primary.py
+inputModule16:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-xdisturbance---primary.py
+inputModule17:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-dimesylate---primary.py
+inputModule18:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-methylphenidate---primary.py
+inputModule19:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-equasym---primary.py
+inputModule20:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-third---primary.py
+inputModule21:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-durophet---primary.py
+inputModule22:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-tablet---primary.py
+inputModule23:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-intuniv---primary.py
+inputModule24:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-medikinet---primary.py
+inputModule25:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-second---primary.py
+inputModule26:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-elvanse---primary.py
+inputModule27:
+  class: File
+  path: python/attentiondeficit-hyperactivity-disorder-adhd---primary.py
+inputModule28:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-first---primary.py
+inputModule29:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-nonstimulnt---primary.py
+inputModule30:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-nonstimulant---primary.py
+inputModule31:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-dexamfetamine---primary.py
+inputModule32:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-delay---primary.py
+inputModule33:
+  class: File
+  path: python/xhyperkinetic-attention-deficit-hyperactivity-disorder-adhd---primary.py
+inputModule34:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-motor---primary.py
+inputModule35:
+  class: File
+  path: python/attention-deficit-hyperactivity-disorder-adhd-description---primary.py
+inputModule36:
+  class: File
+  path: python/output-cases.py
